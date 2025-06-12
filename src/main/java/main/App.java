@@ -8,12 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
-        System.out.println( "moikka!" );
-        System.out.println( "MMoikka!" );
-        System.out.println( "Uutta kakkaa!" );
-
-
-
+        System.out.println( "Noni tehdääs ohjelmia" );
+        
     }
 }
