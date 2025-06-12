@@ -11,6 +11,8 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "moikka!" );
         System.out.println( "MMoikka!" );
+        System.out.println( "Uutta kakkaa!" );
+
 
 
     }
