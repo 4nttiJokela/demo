@@ -35,7 +35,6 @@ public class App {
 
                 switch(i) {
                     case 1:
-                        System.out.println("Vaihtoehto 1");
                         car.status();
                         break;
 
